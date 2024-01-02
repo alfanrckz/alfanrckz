@@ -1,4 +1,4 @@
-Hi there, I'm Alfansyuri Ziaulhaq
+# Hi there, I'm Alfansyuri Ziaulhaq
 
 
 # 📊 GitHub Stats:
@@ -21,7 +21,6 @@ Hi there, I'm Alfansyuri Ziaulhaq
   [![](https://visitcount.itsvg.in/api?id=alfanrckz&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
