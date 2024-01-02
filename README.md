@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there, I'm Alfansyuri Ziaulhaq
 
 
