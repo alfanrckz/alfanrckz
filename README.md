@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfanrckz&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 💻 Tech Stack:
+
 <div >
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
